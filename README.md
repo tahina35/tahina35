@@ -40,8 +40,6 @@ I’m a full-stack software engineer with experience building production-ready w
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=tahina35&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahina-andriantomanga-29b239151)
